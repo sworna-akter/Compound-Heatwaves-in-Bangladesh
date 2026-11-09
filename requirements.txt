@@ -1,0 +1,9 @@
+numpy
+pandas
+xarray
+geopandas
+matplotlib
+seaborn
+scipy
+rioxarray
+pymannkendall
