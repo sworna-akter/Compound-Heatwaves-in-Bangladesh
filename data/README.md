@@ -5,12 +5,8 @@ This directory documents the datasets used in the compound heatwaves in Banglade
 
 ## Data Sources
 
-| Dataset | Variables | Period | Source |
-| ERA5 Reanalysis | 2 m temperature, dewpoint, surface pressure | 1991–2025 | ECMWF/Copernicus |
-| ERA5 Reanalysis | Precipitation and cloud cover | 1991–2025 | ECMWF/Copernicus |
-| ERA5 Reanalysis | Wind components | 1991–2025 | ECMWF/Copernicus |
-| ERA5 Reanalysis | Soil moisture | 1991–2025 | ECMWF/Copernicus |
-| ERA5 Reanalysis | Surface solar radiation | 1991–2025 | ECMWF/Copernicus |
+| ERA5 Reanalysis | 1991–2025 | ECMWF/Copernicus |
+
 
 ## Data Access
 
